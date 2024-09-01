@@ -1,9 +1,9 @@
 # NewsReader
 ## Task:
-Fetch top news headlines from an API and build an interactive GUI for presenting news to readers
+Fetch top news headlines via real-time API requests and build an interactive GUI for presenting news to readers
 ## IDE: PyCharm
 ## Steps:
-* Create an API key for fetching news articles using https://newsapi.org/
+* Create an API key for fetching news articles using https://newsapi.org/. (Articles keeps updating every hour)
 * Create a PyCharm project with venv. (Python 3.10)
 * .idea and venv folder will be automatically created.
 * In terminal having (venv), just install once in venv,
